@@ -1,1 +1,1 @@
-I am uncertain what to do with this repository next. 
+This repository holds assorted small projects. 
